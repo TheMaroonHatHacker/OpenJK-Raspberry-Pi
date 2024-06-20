@@ -12,3 +12,6 @@ sudo apt install libsdl2-dev
 ```
 
 Enjoy OpenJK on the Raspberry Pi!
+
+# Note
+This project isn't being worked on. Use at your own discretion (not that it matters, it's just the build instrucions from OpenJK that I've put into to bash script)
